@@ -1,2 +1,5 @@
-# Design_Responsivo
- Tablet+Celular+DESKTOP
+# projeto-apeperia
+Estudo de Design responsivo.
+Tablet 
+Celular 
+Desktop
